@@ -1,0 +1,13 @@
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.csproj.CoreCompileInputs.cache
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.RazorAssemblyInfo.cache
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.RazorAssemblyInfo.cs
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.AssemblyInfoInputs.cache
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.AssemblyInfo.cs
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.deps.json
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.runtimeconfig.json
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.runtimeconfig.dev.json
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.dll
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.RazorTargetAssemblyInfo.cache
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.pdb
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.dll
+G:\Work File\TripTracker\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.pdb
